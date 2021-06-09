@@ -12,62 +12,22 @@
  <lastmod>2021-06-09</lastmod>
  <changefreq>weekly</changefreq>
 </url>
+
 <url>
- <loc>http://caihuaye.github.io/</loc>
+ <loc>http://caihuaye.github.io/category/0_publication.html</loc>
  <priority>0.5</priority>
  <lastmod>2021-06-09</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://caihuaye.github.io/research.html</loc>
+ <loc>http://caihuaye.github.io/category/1_personal.html</loc>
  <priority>0.5</priority>
  <lastmod>2021-06-09</lastmod>
  <changefreq>weekly</changefreq>
 </url>
-<url>
- <loc>http://caihuaye.github.io/category/c_publication.html</loc>
- <priority>0.5</priority>
- <lastmod>2021-06-09</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>http://caihuaye.github.io/category/d_teaching.html</loc>
- <priority>0.5</priority>
- <lastmod>2021-06-09</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>http://caihuaye.github.io/category/group.html</loc>
- <priority>0.5</priority>
- <lastmod>2021-06-09</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>http://caihuaye.github.io/category/personal.html</loc>
- <priority>0.5</priority>
- <lastmod>2021-06-09</lastmod>
- <changefreq>weekly</changefreq>
-</url>
+
 <url>
  <loc>http://caihuaye.github.io/2021/06/13/aboutme.html</loc>
- <priority>0.5</priority>
- <lastmod>2021-06-09</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>https://www.nwpu.edu.cn/index.htm</loc>
- <priority>0.5</priority>
- <lastmod>2021-06-09</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>http://iopen.nwpu.edu.cn/</loc>
- <priority>0.5</priority>
- <lastmod>2021-06-09</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>https://jsj.nwpu.edu.cn/</loc>
  <priority>0.5</priority>
  <lastmod>2021-06-09</lastmod>
  <changefreq>weekly</changefreq>
@@ -97,3 +57,22 @@
  <changefreq>weekly</changefreq>
 </url>
 </urlset>
+
+<url>
+ <loc>https://www.nwpu.edu.cn/index.htm</loc>
+ <priority>0.5</priority>
+ <lastmod>2021-06-09</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>http://iopen.nwpu.edu.cn/</loc>
+ <priority>0.5</priority>
+ <lastmod>2021-06-09</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://jsj.nwpu.edu.cn/</loc>
+ <priority>0.5</priority>
+ <lastmod>2021-06-09</lastmod>
+ <changefreq>weekly</changefreq>
+</url>

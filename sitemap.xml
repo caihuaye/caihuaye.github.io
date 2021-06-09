@@ -12,42 +12,20 @@
  <lastmod>2021-06-09</lastmod>
  <changefreq>weekly</changefreq>
 </url>
+
 <url>
- <loc>https://caihuaye.github.io/</loc>
+ <loc>https://caihuaye.github.io/category/0_publication.html</loc>
  <priority>0.5</priority>
  <lastmod>2021-06-09</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://caihuaye.github.io/research.html</loc>
+ <loc>https://caihuaye.github.io/category/1_personal.html</loc>
  <priority>0.5</priority>
  <lastmod>2021-06-09</lastmod>
  <changefreq>weekly</changefreq>
 </url>
-<url>
- <loc>https://caihuaye.github.io/category/c_publication.html</loc>
- <priority>0.5</priority>
- <lastmod>2021-06-09</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>https://caihuaye.github.io/category/d_teaching.html</loc>
- <priority>0.5</priority>
- <lastmod>2021-06-09</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>https://caihuaye.github.io/category/group.html</loc>
- <priority>0.5</priority>
- <lastmod>2021-06-09</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>https://caihuaye.github.io/category/personal.html</loc>
- <priority>0.5</priority>
- <lastmod>2021-06-09</lastmod>
- <changefreq>weekly</changefreq>
-</url>
+
 <url>
  <loc>https://caihuaye.github.io/2021/06/13/aboutme.html</loc>
  <priority>0.5</priority>
