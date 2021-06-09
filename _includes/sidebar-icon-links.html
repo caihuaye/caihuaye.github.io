@@ -1,0 +1,54 @@
+<nav id="sidebar-icon-links">
+  {% if site.hydeout.repo %}
+    <a id="github-link"
+       class="icon" title="Github Project" aria-label="Github Project"
+       href="{{ site.hydeout.repo }}">
+      {% include svg/github.svg %}
+    </a>
+    <a id="github-download-link"
+       class="icon" title="Download" aria-label="Download"
+       href="{{ site.hydeout.repo }}/archive/v{{ site.hydeout.version }}.zip">
+      {% include svg/download.svg %}
+    </a>
+  {% endif %}
+<!--
+  <a id="subscribe-link"
+     class="icon" title="SCUT" aria-label="Subscribe"
+     href="https://www.scut.edu.cn/">
+    {% include svg/feed.svg %}
+  </a>-->
+
+  {% comment %}
+    Check if we have tag or search pages page active before linking to it.
+  {% endcomment %}
+  {% assign tags_page = false %}
+  {% assign search_page = false %}
+  {% for node in site.pages %}
+    {% if node.layout == "tags" %}
+      {% assign tags_page = node %}
+    {% elsif node.layout == "search" %}
+      {% assign search_page = node %}
+    {% endif %}
+  {% endfor %}
+  <small>&nbsp;<a href="http://www.scholat.com/csyhquan.cn" target="_blank">中文主页</a>&nbsp;&ensp;</small>
+  {% if tags_page %}
+    <small><a id="tags-link"
+       class="icon{% if page.url == '/tags' %} active{% endif %}"
+       title="School" aria-label="Tags"
+       href="http://www2.scut.edu.cn/cs/2017/0129/c22285a327618/page.htm" target="_blank">
+      {% include svg/tags.svg %}
+    </a></small>
+	
+  {% endif %}
+<!--
+  {% if search_page %}
+    <small><a id="search-link"
+       class="icon{% if page.url == '/search' %} active{% endif %}"
+       title="Search" aria-label="Search"
+       href="{{ search_page.url | relative_url }}">
+      {% include svg/search.svg %}
+    </a></small>
+  {% endif %}-->
+  
+  {% include custom-icon-links.html %}
+</nav>
