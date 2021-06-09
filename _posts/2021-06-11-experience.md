@@ -1,9 +1,12 @@
 ---
 layout: post
-title: Professional Experience
+title: Experience
 ---
 
 <ul>
-<li><t1><span>01/2016 &#8212; Present,  Associate Professor, <a href="http://www2.scut.edu.cn/cs/2017/0129/c22285a327618/page.htm" target="_blank">School of Computer Science and Engineering</a>, South China University of Technology.</span></t1></li>
-<li><t1><span>10/2013 &#8212; 01/2016, Postdoctoral Researcher, <a href="http://ww1.math.nus.edu.sg/" target="_blank">Department of Mathematics</a>, National University of Singapore.</span></t1></li>
+<li><t1><span>09/2021 &#8212; Present, Master Degree Candidate, <a href="https://jsj.nwpu.edu.cn/" target="_blank">School of Computer Science</a>, Northwestern Polytechnical University.</span></t1></li>
+<li><t1><span>07/2018 &#8212; 09/2019, Mechanical Leader of Rescue Robot Group, Dancing Robot Base.</span></t1></li>
+<li><t1><span>09/2018 &#8212; 09/2019, Tenor of Art Choir, Art Education Center, Northwestern Polytechnical University.</span></t1></li>
+<li><t1><span>10/2017 &#8212; 09/2019, Member of Heart ++ Youth Volunteer Service Team</span></t1></li>
+<li><t1><span>09/2017 &#8212; 06/2021, Undergraduate, Northwestern Polytechnical University.</span></t1></li>
 </ul>
