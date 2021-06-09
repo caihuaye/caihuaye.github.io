@@ -11,7 +11,7 @@ p.ex1 {margin-bottom:0.2cm}
 <br>
 
 <t-half><strong>Memory</strong></t-half>
-<p class="ex1"><t1>Could u recognize me from the photos?</t1></p>
+<p class="ex1"><t1>I'm afraid of taking pictures…</t1></p>
 
 <br>
 
