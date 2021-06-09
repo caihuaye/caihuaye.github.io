@@ -1,8 +1,8 @@
 修改.md文件网页内容时注意大标签必须顶格，不能在前面有空格
 
-修改About me的主页内容在_posts文件夹中，其中About Me对应aboutme.md文件
+修改About me的主页内容在_posts文件夹中，其中About Me对应2021-06-13-aboutme.md文件
 
-Education对应education.md文件
+Education对应2021-06-12-education.md文件
 
 Award，Profession experience, interest与上面类似分别对应。
 
