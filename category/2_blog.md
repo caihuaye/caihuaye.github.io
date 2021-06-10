@@ -8,7 +8,7 @@ title: Blog
 <t1>
 <ul style="background-color: #f2f2f2;">
 
-<span><p>2021-06-10 &ensp; <a href="https://caihuaye.github.io/blog/2021-06-10-deblur/Deblur.html">Introduction of related papers and teams in the field of defuzzification</a></p></span>
+<li><p>2021-06-10 &ensp; <a href="https://caihuaye.github.io/blog/2021-06-10-deblur/Deblur.html">Introduction of related papers and teams in the field of defuzzification</a></p></li>
 
 </ul>
 </t1>
