@@ -3,8 +3,5 @@ layout: category
 title: Blog
 ---
 
-<script src="https://cdn.staticfile.org/jquery/1.12.4/jquery.min.js"></script><!--引入jquery-->
-<style>
-
 <t-half><strong>Deblur</strong></t-half>
-<p><a href="https://caihuaye.github.io/blog/2021-06-10-deblur/Deblur.md">Introduction of related papers and teams in the field of defuzzification</a></p>
+<p><a href="https://caihuaye.github.io/blog/2021/06/10/deblur/Deblur.md">Introduction of related papers and teams in the field of defuzzification</a></p>
