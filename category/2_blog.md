@@ -3,5 +3,13 @@ layout: category
 title: Blog
 ---
 
-<t-half><strong>Deblur</strong></t-half>
+<details open="">
+<summary><t-half><span><strong>Research</strong></span></t-half></summary>
+<t1>
+<ul style="background-color: #f2f2f2;">
+
 <p><a href="https://caihuaye.github.io/blog/2021-06-10-deblur/Deblur.html">Introduction of related papers and teams in the field of defuzzification</a></p>
+
+</ul>
+</t1>
+</details>
