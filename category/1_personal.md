@@ -11,7 +11,7 @@ p.ex1 {margin-bottom:0.2cm}
 <br>
 
 <t-half><strong>Memory</strong></t-half>
-<p><t1>The Rescue Robot named Explorer in the 23th RoboCup China Open Competition.</t1></p>
+<p><t1>The Rescue Robot named Explorer in the 23th RoboCup China Open Competition. (photo token on April 20, 2019)</t1></p>
 <p>
 <table border="0">
 <tbody>
