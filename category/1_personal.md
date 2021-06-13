@@ -11,7 +11,16 @@ p.ex1 {margin-bottom:0.2cm}
 <br>
 
 <t-half><strong>Memory</strong></t-half>
-<p class="ex1"><t1>I'm afraid of taking pictures…</t1></p>
+<p><t1>The Rescue Robot named Explorer in the 23th RoboCup China Open Competition.</t1></p>
+<p>
+<table border="0">
+<tbody>
+<tr>
+<img src="https://caihuaye.github.io/images/Explorer.jpg" alt="" height="265" class="pimg"/>
+</tr>
+</tbody>
+</table>
+</p>
 
 <br>
 
