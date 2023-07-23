@@ -6,9 +6,6 @@ title: Personal
 <style>
 p.ex1 {margin-bottom:0.2cm}
 </style>
-<p><t1><big><em> You may find something interesting about me in this page.</em></big></t1></p>
-
-<br>
 
 <t-half><strong>Memory</strong></t-half>
 <p><t1>The Rescue Robot named Explorer in the 23th RoboCup China Open Competition. (photo token on April 20, 2019)</t1></p>
@@ -21,8 +18,6 @@ p.ex1 {margin-bottom:0.2cm}
 </tbody>
 </table>
 </p>
-
-<br>
 
 <t-half><strong>Comic</strong></t-half>
 <p><t1>The happiest thing every week is to read the new update of One Piece comics.</t1></p>
