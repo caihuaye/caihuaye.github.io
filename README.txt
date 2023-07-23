@@ -1,3 +1,3 @@
 # Readme
 
-NWPU Caihua Ye Homepage
+NPU Caihua Ye Homepage

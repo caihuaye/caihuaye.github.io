@@ -2,64 +2,63 @@
 <urlset
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
 >
 
-<url>
- <loc>https://caihuaye.github.io/</loc>
- <priority>0.5</priority>
- <lastmod>2021-06-09</lastmod>
- <changefreq>weekly</changefreq>
-</url>
+    <url>
+        <loc>https://caihuaye.github.io/</loc>
+        <priority>0.5</priority>
+        <lastmod>2021-06-09</lastmod>
+        <changefreq>weekly</changefreq>
+    </url>
 
-<url>
- <loc>https://caihuaye.github.io/category/0_publication.html</loc>
- <priority>0.5</priority>
- <lastmod>2021-06-09</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>https://caihuaye.github.io/category/1_personal.html</loc>
- <priority>0.5</priority>
- <lastmod>2021-06-09</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>https://caihuaye.github.io/category/2_blog.html</loc>
- <priority>0.5</priority>
- <lastmod>2021-06-09</lastmod>
- <changefreq>weekly</changefreq>
-</url>
+    <!-- <url>
+        <loc>https://caihuaye.github.io/category/0_publication.html</loc>
+        <priority>0.5</priority>
+        <lastmod>2021-06-09</lastmod>
+        <changefreq>weekly</changefreq>
+    </url> -->
+    <url>
+        <loc>https://caihuaye.github.io/category/1_personal.html</loc>
+        <priority>0.5</priority>
+        <lastmod>2021-06-09</lastmod>
+        <changefreq>weekly</changefreq>
+    </url>
+    <!-- <url>
+        <loc>https://caihuaye.github.io/category/2_blog.html</loc>
+        <priority>0.5</priority>
+        <lastmod>2021-06-09</lastmod>
+        <changefreq>weekly</changefreq>
+    </url> -->
 
-<url>
- <loc>https://caihuaye.github.io/2021/06/13/aboutme.html</loc>
- <priority>0.5</priority>
- <lastmod>2021-06-09</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>https://caihuaye.github.io/2021/06/12/education.html</loc>
- <priority>0.5</priority>
- <lastmod>2021-06-09</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>https://caihuaye.github.io/2021/06/11/experience.html</loc>
- <priority>0.5</priority>
- <lastmod>2021-06-09</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>https://caihuaye.github.io/2021/06/10/award.html</loc>
- <priority>0.5</priority>
- <lastmod>2021-06-09</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>https://caihuaye.github.io/2021/06/09/interest.html</loc>
- <priority>0.5</priority>
- <lastmod>2021-06-09</lastmod>
- <changefreq>weekly</changefreq>
-</url>
+    <url>
+        <loc>https://caihuaye.github.io/2021/06/13/aboutme.html</loc>
+        <priority>0.5</priority>
+        <lastmod>2021-06-09</lastmod>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>https://caihuaye.github.io/2021/06/12/education.html</loc>
+        <priority>0.5</priority>
+        <lastmod>2021-06-09</lastmod>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>https://caihuaye.github.io/2021/06/11/experience.html</loc>
+        <priority>0.5</priority>
+        <lastmod>2021-06-09</lastmod>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>https://caihuaye.github.io/2021/06/10/award.html</loc>
+        <priority>0.5</priority>
+        <lastmod>2021-06-09</lastmod>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>https://caihuaye.github.io/2021/06/09/interest.html</loc>
+        <priority>0.5</priority>
+        <lastmod>2021-06-09</lastmod>
+        <changefreq>weekly</changefreq>
+    </url>
 </urlset>
